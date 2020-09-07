@@ -1,6 +1,7 @@
 (window.webpackJsonp = window.webpackJsonp || []).push([[1], {
                 "+qE3": function (t, e, n) {
                     "use strict";
+                  console.log('script chargé');
                     var r, i = "object" == typeof Reflect ? Reflect : null,
                         o = i && "function" == typeof i.apply ? i.apply : function (t, e, n) {
                             return Function.prototype.apply.call(t, e, n)
